@@ -40,8 +40,8 @@
 
 ### 📫 Conecta conmigo
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/cynthia-del-mar-martel-mart%C3%ADn-73b066186/)))  
-- 🌐 [Sitio web del portafolio]([https://your-portfolio-link.com](https://cynthiamartel.github.io/)) *(En construcción)*
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/cynthia-del-mar-martel-mart%C3%ADn-73b066186/) 
+- 🌐 [Sitio web del portafolio](https://cynthiamartel.github.io/) *(En construcción)*
 - ✉️ Email: cynthiamartelmartin@gmail.com
 
 ---
