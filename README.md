@@ -50,7 +50,7 @@
 
 - 🎬 **Cine y código**: Amante del cine independiente y exploradora del mundo del código.
 - 🎨 **Creatividad en acción**: Disfruto crear arte y fusionarlo con diseño funcional.
-- 📚 **Sociología y justicia social**: Apasionada por las cuestiones sociales y lectora ávida de temas sociológicos.
+- 📚 **Sociología**: Apasionada y curiosidad prfunda por las cuestiones sociales y lectora ávida de temas sociológicos.
 - 🎵 **Música y aprendizaje**: Estudiante de piano durante más de 6 años, aprendiendo bajo y batería con entusiasmo constante.
 
 ---
