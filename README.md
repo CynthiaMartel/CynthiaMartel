@@ -48,9 +48,10 @@
 
 ### 🌟 Curiosidades
 
-- 🎮 Amante de los videojuegos y entusiasta del código.
-- 🎨 Me encanta crear arte y combinar diseño con funcionalidad.
-- 🐾 Vegana y defensora de los derechos de los animales.
+- 🎬 **Cine y código**: Amante del cine independiente y exploradora del mundo del código.
+- 🎨 **Creatividad en acción**: Disfruto crear arte y fusionarlo con diseño funcional.
+- 📚 **Sociología y justicia social**: Apasionada por las cuestiones sociales y lectora ávida de temas sociológicos.
+- 🎵 **Música y aprendizaje**: Estudiante de piano durante más de 6 años, aprendiendo bajo y batería con entusiasmo constante.
 
 ---
 
