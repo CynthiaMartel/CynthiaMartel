@@ -40,9 +40,9 @@
 
 ### 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 🌐 [Sitio web del portafolio](https://your-portfolio-link.com) *(Próximamente)*
-- ✉️ Email: your-email@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/cynthia-del-mar-martel-mart%C3%ADn-73b066186/)))  
+- 🌐 [Sitio web del portafolio](https://your-portfolio-link.com) *(En construcción)*
+- ✉️ Email: cynthiamartelmartin@gmail.com
 
 ---
 
