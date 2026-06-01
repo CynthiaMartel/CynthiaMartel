@@ -15,7 +15,8 @@
 ### 🚀 Proyectos en Producción y Experiencia
 
 * **[Filmoclub.org](https://filmoclub.org) | Proyecto Final de DAM & Comunidad**: Mi proyecto más personal, nacido de mi pasión cinéfila. Es una plataforma en constante crecimiento con la pretensión de crear un colectivo para compartir cine independiente. Aquí aplico todo mi stack técnico para fomentar el crecimiento cultural en comunidad.
-* **[Dualab.com](https://dualab.es) | Prácticas de empresa**: Actualmente colaborando en el desarrollo de un proyecto real en producción. Me encargo de implementar funcionalidades críticas y asegurar la estabilidad del entorno bajo estándares profesionales. [Lee el READ ME para ver todas sus funcionalidades]([https://dualab.es](https://github.com/CynthiaMartel/microretos?tab=readme-ov-file#readme)
+* **[Dualab.com](https://dualab.es) | Prácticas de empresa**: Actualmente colaborando en el desarrollo de un proyecto real en producción. Me encargo de implementar funcionalidades críticas y asegurar la estabilidad del entorno bajo estándares profesionales.
+* Lee el READ ME para ver todas sus funcionalidades: [READ_ME]([https://dualab.es](https://github.com/CynthiaMartel/microretos?tab=readme-ov-file#readme))
 * **DevOps & Deployment**: Cuento con experiencia real realizando **deploys en producción** tanto para Filmoclub como para Dualab. Manejo administración de servidores mediante **SSH** y gestión de hosting profesional en **Hostinger**.
 
 ---
